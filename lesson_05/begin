@@ -10,7 +10,10 @@
 </head>
 <body>
  <div class="container">
- 
+ <div class ="well">
+ Basic Well
+ </div>
+ <h2>Well<h2>
   </div>
 </body>
 </html>
